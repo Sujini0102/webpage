@@ -1,0 +1,1 @@
+Here ,I have created a sample webpage with a link connected to the form.This webpage is designed to collect information from our users in a simple and efficient way. Our form includes fields for your name, email address, phone number, and a simple questions.
